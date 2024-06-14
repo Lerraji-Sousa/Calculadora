@@ -3,7 +3,7 @@
 </h1>
 
 
-## 📕 Sobre o projeto:
+## 📘 Sobre o projeto:
 
 Este é um projeto de uma calculadora, desenvolvida para demonstrar minhas habilidades com HTML, CSS e JavaScript.
 
@@ -12,7 +12,7 @@ Link: https://lerraji-sousa.github.io/Calculadora/
 
 <br>
 
-## 🔨 Linguagens e Tecnologias Utilizadas:
+## 🛠️ Linguagens e Tecnologias Utilizadas:
 
 - HTML: Estruturação da interface da calculadora. 
 - CSS: Estilização da calculadora. 
