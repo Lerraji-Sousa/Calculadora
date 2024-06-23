@@ -7,7 +7,7 @@
 
 Este é um projeto de uma calculadora, desenvolvida para demonstrar minhas habilidades com HTML, CSS e JavaScript.
 
-Link: https://lerraji-sousa.github.io/Calculadora/
+Link para a Tela de Login: [Tela de Login](https://lerraji-sousa.github.io/Calculadora/)
 
 
 <br>
